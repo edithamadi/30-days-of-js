@@ -1,0 +1,10 @@
+August 20, 2021
+Task: 
+1. store the  text below as a string in a variable named "quote": 
+ "You miss 100% of the shots you don’t take. –Wayne Gretzky"
+
+
+2. What is the difference between null and undefined?
+3. What is NaN in JavaScript? What is the typeof NaN?
+4. You can declare a variable by typing let name;. What is the value of name?
+
